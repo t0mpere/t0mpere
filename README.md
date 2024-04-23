@@ -5,6 +5,9 @@ Data Platform Engineer @ Bumble Inc.
 ## OSS Contributions
 
 ### [apache/pinot](https://github.com/apache/pinot)
+
+#### Release 1.1.0 [Notable Features](https://docs.pinot.apache.org/basics/releases/1.1.0#notable-features)
+
 #### Issues
 - How to disable fwd and inverted index on a BYTES metric column. [#11659](https://github.com/apache/pinot/issues/11659)
 - Upgrade inconsistency: Confusing behavior with noDictionaryConfig and fieldConfig for enabling compression on raw forward index. [#11745](https://github.com/apache/pinot/issues/11745)
