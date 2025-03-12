@@ -24,3 +24,23 @@ Data Platform Engineer @ Bumble Inc.
 - Note on `noDictionary` compression for metrics columns in forward-index.md [#244](https://github.com/apache/pinot/issues/244)
 - Hint to avoid having too many files in inputDirURI [#178](https://github.com/apache/pinot/issues/178)
 - Dynamic Environment Configuration documentation [#289](https://github.com/pinot-contrib/pinot-docs/pull/289)
+
+## CV [(here)](https://github.com/user/repo/blob/branch/other_file.md)
+
+### Work
+- Data Platform Engineer @ Bumble Inc. Apr 2022 - Present
+  - Data Platform tools software development. (Python, Java, TypeScript, PHP)
+  - Maintaining PB scale data infrastructure. (Hadoop, Spark, Snowflake)
+  - Optimisation of Big Data pipelines. (Query profiling, Spark, Clickhouse, Pinot)
+  - Apache Pinot OS contributor.
+  - Upgraded backend engine for in-house data discovery tool using Apache Pinot with full ownership of Research and system design, GKE K8s provisioning, deployment and admin, Pinot deployment, Spark data generation, Schema generation, Validation, Performance/Cost tuning, UI redesign. Achieved a >10x speed improvement on page response times.
+  - High availability production Airflow deployment on K8s, maintenance and admin
+  - **Technologies used** Apache Pinot, Clickhouse, Snowflake, k8s, Python, Java, Spark, Hadoop, Kafka, Airflow, Flink, Prometheus, TeamCity
+- Data Engineer @ Housing Anywhere B.v. August 2020 - Mar 2022
+
+### Education
+- Politecnico di Milano - Computer Science Engineering MSc and BSc
+
+  
+
+
