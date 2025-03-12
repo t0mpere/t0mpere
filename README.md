@@ -35,6 +35,7 @@ Data Platform Engineer @ Bumble Inc.
   - Apache Pinot OS contributor.
   - Upgraded backend engine for in-house data discovery tool using Apache Pinot with full ownership of Research and system design, GKE K8s provisioning, deployment and admin, Pinot deployment, Spark data generation, Schema generation, Validation, Performance/Cost tuning, UI redesign. Achieved a >10x speed improvement on page response times.
   - High availability production Airflow deployment on K8s, maintenance and admin
+  - Experience working with On-Prem and Cloud infrastructure.
   - **Technologies used** Apache Pinot, Clickhouse, Snowflake, k8s, Python, Java, Spark, Hadoop, Kafka, Airflow, Flink, Prometheus, TeamCity
 - Data Engineer @ Housing Anywhere B.v. August 2020 - Mar 2022
 
