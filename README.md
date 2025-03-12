@@ -25,7 +25,7 @@ Data Platform Engineer @ Bumble Inc.
 - Hint to avoid having too many files in inputDirURI [#178](https://github.com/apache/pinot/issues/178)
 - Dynamic Environment Configuration documentation [#289](https://github.com/pinot-contrib/pinot-docs/pull/289)
 
-## CV [(here)](https://github.com/user/repo/blob/branch/other_file.md)
+## CV [(here)](https://github.com/t0mpere/t0mpere/blob/main/tompere_cv.pdf)
 
 ### Work
 - Data Platform Engineer @ Bumble Inc. Apr 2022 - Present
