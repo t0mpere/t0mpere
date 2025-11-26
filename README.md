@@ -17,6 +17,7 @@ Data Platform Engineer @ Bumble Inc.
 #### PRs
 -  Add compression configuration for aggregationConfigs to StartreeIndexConfigs [#11744](https://github.com/apache/pinot/issues/11744)
 -  Adding Dynamic Env configuration to Apache Pinot [#12307](https://github.com/apache/pinot/pull/12307)
+-  MergeRollupTask config behaviour enhancement [#17015](https://github.com/apache/pinot/pull/17015)
 
 ### [pinot-contrib/pinot-docs]()
 #### PRs
@@ -34,7 +35,7 @@ Data Platform Engineer @ Bumble Inc.
   - Optimisation of Big Data pipelines. (Query profiling, Spark, Clickhouse, Pinot)
   - Apache Pinot OS contributor.
   - Upgraded backend engine for in-house data discovery tool using Apache Pinot with full ownership of Research and system design, GKE K8s provisioning, deployment and admin, Pinot deployment, Spark data generation, Schema generation, Validation, Performance/Cost tuning, UI redesign. Achieved a >10x speed improvement on page response times.
-  - High availability production Airflow deployment on K8s, maintenance and admin
+  - High availability production Airflow deployment on K8s, maintenance, and admin
   - Experience working with On-Prem and Cloud infrastructure.
   - **Technologies used** Apache Pinot, Clickhouse, Snowflake, k8s, Python, Java, Spark, Hadoop, Kafka, Airflow, Flink, Prometheus, TeamCity
 - Data Engineer @ Housing Anywhere B.v. August 2020 - Mar 2022
